@@ -1,0 +1,30 @@
+.logo {
+    height: 40px;
+    border-radius: 10px;
+}
+
+.center_logo_image{
+    border-radius: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fbfbfb;
+}
+
+.think_image{
+    padding-top: 40px;
+    width: 400px;
+}
+
+.slogan{
+    width: 541px;
+    height: 218px;
+    margin-top: 80px;
+    font-family: 'Javanese Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 109px;
+}
