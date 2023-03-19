@@ -1,0 +1,23 @@
+.logo {
+    height: 40px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.ama{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 40px;
+    font-size: 28px;
+}
+.anshead{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 40px;
+    font-size: 28px;
+}
+.answer{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    font-size: 18px;
+}
